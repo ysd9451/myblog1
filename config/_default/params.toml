@@ -6,7 +6,7 @@ favicon = "/dm.png"
 
 [footer]
 since = 2020
-customText = ""
+customText = "粤ICP备2023142153号"
 
 [dateFormat]
 published = "Jan 02, 2006"
